@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo List App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="high_priority">High Priority</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="short_by">Short by</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="prioritas">
+        <item>High priority</item>
+        <item>Medium priority</item>
+        <item>Low priority</item>
+    </string-array>
+
+</resources>
